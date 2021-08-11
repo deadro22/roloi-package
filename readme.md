@@ -18,7 +18,7 @@ The installation is fairly simple all you need to do is run
 $ npm i -g roloi
 ```
 
-### You can also:
+# You can also:
 
 - call roloi without specifying any file and roloi will automatically look into your package.json file, find the main entry and start it
 
